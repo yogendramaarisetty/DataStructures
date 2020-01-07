@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79b7297f-41cf-42e3-bcce-2b0a5eb38e7d" name="Default Changelist" comment="" />
+    <list default="true" id="79b7297f-41cf-42e3-bcce-2b0a5eb38e7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/LinkedList/SLLNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/LinkedList/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/LinkedList/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/SingleLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stacks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/Stacks/Stack.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +31,7 @@
   <component name="ProjectId" id="1VwNqiNCws3egyQwtx0yqwQt1rv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -37,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestClass">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="DataStructures using java" />
@@ -48,6 +59,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructures.LinkedList.SingleLinkedList" />
+      <module name="DataStructures using java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructures.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.TestClass" />
+      <module name="DataStructures using java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SingleLinkedList" />
+      <item itemvalue="Application.TestClass" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.SingleLinkedList" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -60,6 +109,14 @@
       <option name="presentableId" value="Default" />
       <updated>1578160389120</updated>
     </task>
+    <task id="LOCAL-00001" summary="yes">
+      <created>1578160931131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578160931131</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,10 +124,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yes" />
+    <option name="LAST_COMMIT_MESSAGE" value="yes" />
   </component>
 </project>
