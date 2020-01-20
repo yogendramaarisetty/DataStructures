@@ -1,6 +1,9 @@
 package Main;
 import DataStructures.LinkedList.SingleLinkedList;
 import  DataStructures.LinkedList.DoubleLinkedList;
+import DataStructures.Stack.Stack;
+
+import javax.sound.midi.Soundbank;
 
 public class TestClass {
     public static void main(String args[]) {
@@ -29,6 +32,26 @@ public class TestClass {
         System.out.println(dll.head+" "+dll.head.next+" "+dll.head.next.next+" "+dll.head.next.next.next);
         System.out.println(dll.tail+" "+dll.tail.prev+" "+dll.tail.prev.prev+" "+dll.tail.prev.prev.prev);
         System.out.println(dll);
+        dll.deleteTail();
+        System.out.println(dll);
+        dll.deleteTail();
+        System.out.println(dll);
+        Stack<Integer> i = new Stack<Integer>();
+        i.pop();
+        System.out.println(i.isEmpty());
+        i.push(20);
+        i.push(30);
+        i.push(40);
+        System.out.println(i.head());
+        System.out.println(i.size());
+        i.pop();
+        System.out.println(i.head());
+        System.out.println(i.size());
+        i.pop();
+        System.out.println(i.head());
+        System.out.println(i.size());
+        i.pop();
+        i.pop();
 
 
     }

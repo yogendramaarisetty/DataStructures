@@ -66,6 +66,21 @@ public class DoubleLinkedList<T> {
             }
         }
     }
+    public void deleteTail(){
+        if(tail == null){
+            System.out.println("List is empty");
+        }
+        else{
+            if(head == tail){
+                head = null;
+                tail = null;
+            }
+            else {
+                tail = tail.prev;
+                tail.next = null;
+            }
+        }
+    }
     @Override
     public String toString(){
         String s =  "[ ";

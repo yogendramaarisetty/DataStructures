@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79b7297f-41cf-42e3-bcce-2b0a5eb38e7d" name="Default Changelist" comment="yes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/LinkedList/DLLNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/LinkedList/DoubleLinkedList.java" afterDir="false" />
+    <list default="true" id="79b7297f-41cf-42e3-bcce-2b0a5eb38e7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/Stack/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructures/LinkedList/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/LinkedList/DoubleLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/TestClass.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578421768892</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dll,sll">
+      <created>1579280108168</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579280108168</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="yes" />
-    <option name="LAST_COMMIT_MESSAGE" value="yes" />
+    <MESSAGE value="dll,sll" />
+    <option name="LAST_COMMIT_MESSAGE" value="dll,sll" />
   </component>
 </project>
